@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre": "Before The Blackout",
+        "precio": 500,
+        "img": "./multimedia/artwork-tracks/blackoutfoto.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Liberosis",
+        "precio": 500,
+        "img":
+        "./multimedia/artwork-tracks/liberosisfoto.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Predict The Future",
+        "precio": 500,
+        "img":
+        "./multimedia/artwork-tracks/predictthefuturefoto.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Thought Inducer",
+        "precio": 500,
+        "img":
+        "./multimedia/artwork-tracks/thoughtinducerfoto.jpg",
+        "cantidad": 1
+    }
+]
